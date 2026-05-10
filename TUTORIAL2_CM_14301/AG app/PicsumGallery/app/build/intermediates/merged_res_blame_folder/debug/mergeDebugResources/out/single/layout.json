@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-mergeDebugResources-41:/layout/activity_image_details.xml",
+        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/activity_image_details.xml"
+    },
+    {
+        "merged": "com.example.picsumgallery.app-mergeDebugResources-41:/layout/activity_image_details.xml",
+        "source": "com.example.picsumgallery.app-main-44:/layout/activity_image_details.xml"
+    },
+    {
+        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-mergeDebugResources-41:/layout/activity_favorites.xml",
+        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/activity_favorites.xml"
+    },
+    {
+        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-mergeDebugResources-41:/layout/item_favorite_circle.xml",
+        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/item_favorite_circle.xml"
+    },
+    {
+        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-mergeDebugResources-41:/layout/item_image_card.xml",
+        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/item_image_card.xml"
+    }
+]

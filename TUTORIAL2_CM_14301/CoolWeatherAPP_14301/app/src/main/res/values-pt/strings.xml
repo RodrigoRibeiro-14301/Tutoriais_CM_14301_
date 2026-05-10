@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cool Weather APP 2</string>
+    <string name="sea_level_pressure">Pressao ao Nivel do Mar</string>
+    <string name="Wind_Direction">Direção do Vento</string>
+    <string name="Wind_Speed">Velocidade do Vento</string>
+    <string name="Temperature">Temperatura</string>
+    <string name="Time">Tempo</string>
+    <string name="update">ATUALIZAR</string>
+    <string name="hint">Escreva a Latitude</string>
+    <string name="hint2">Escreva a Longitude</string>
+</resources>

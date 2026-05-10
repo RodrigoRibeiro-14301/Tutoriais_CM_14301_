@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PicsumGallery</string>
+    <string name="label_favorites">Favourites</string>
+    <string name="label_gallery">Gallery</string>
+    <string name="error_loading">Failed to load images.</string>
+    <string name="btn_retry">Retry</string>
+    <string name="offline_banner">You\'re offline — showing cached images</string>
+    <string name="no_favorites">No favourites yet. Tap the heart icon to add one.</string>
+    <string name="content_desc_image">Photo by %1$s</string>
+    <string name="content_desc_favorite">Toggle favourite</string>
+</resources>

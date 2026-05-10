@@ -1,0 +1,22 @@
+<resources>
+    <!-- Standard spacing scale -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+
+    <!-- Gallery grid -->
+    <dimen name="gallery_card_image_height">180dp</dimen>
+    <dimen name="gallery_grid_spacing">4dp</dimen>
+
+    <!-- Favorites strip -->
+    <dimen name="favorites_strip_thumbnail_size">60dp</dimen>
+    <dimen name="favorites_strip_height">80dp</dimen>
+
+    <!-- Card radius -->
+    <dimen name="card_corner_radius">8dp</dimen>
+
+    <!-- Toolbar -->
+    <dimen name="toolbar_elevation">4dp</dimen>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.imageview.ShapeableImageView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ivFavoriteThumbnail"
+    android:layout_width="@dimen/favorites_strip_thumbnail_size"
+    android:layout_height="@dimen/favorites_strip_thumbnail_size"
+    android:layout_margin="@dimen/spacing_xs"
+    android:scaleType="centerCrop"
+    app:shapeAppearanceOverlay="@style/ShapeAppearance.Circle"
+    tools:src="@tools:sample/avatars"
+    android:contentDescription="@null" />

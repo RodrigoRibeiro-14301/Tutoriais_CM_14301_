@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.picsumgallery.app-mergeDebugResources-40:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/rodrigorodrigues/.gradle/caches/transforms-4/f845af174cf8bad582898ad22a8afecd/transformed/appcompat-1.7.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

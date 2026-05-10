@@ -1,0 +1,3 @@
+<resources>
+    <integer name="gallery_grid_span_count">2</integer>
+</resources>
