@@ -9,7 +9,7 @@ sealed class Event {
 fun List<Event>.filterByUser(username: String): List<Event> {
     val result = mutableListOf<Event>()
 
-    for (event in this) {   // "this" refers to the list itself
+    for (event in this) {
         when (event) {
             is Event.Login    -> if (event.username == username) result.add(event)
             is Event.Purchase -> if (event.username == username) result.add(event)
