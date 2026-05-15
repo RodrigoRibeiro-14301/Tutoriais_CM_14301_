@@ -1,66 +1,62 @@
 [
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/mipmap-mdpi_ic_launcher_round.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/mipmap-mdpi/ic_launcher_round.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/layout_item_image_card.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/item_image_card.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/layout_item_image_card.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/layout/item_image_card.xml"
     },
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/layout_item_favorite_circle.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/item_favorite_circle.xml"
-    },
-    {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/layout_activity_main.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/activity_main.xml"
-    },
-    {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/drawable_bg_circle_translucent.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/drawable/bg_circle_translucent.xml"
-    },
-    {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/drawable/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/menu_menu_main.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/menu/menu_main.xml"
-    },
-    {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/layout_activity_favorites.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/activity_favorites.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/layout_activity_main.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/layout/activity_main.xml"
     },
     {
         "merged": "com.example.picsumgallery.app-debug-42:/layout_activity_image_details.xml.flat",
         "source": "com.example.picsumgallery.app-main-44:/layout/activity_image_details.xml"
     },
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/mipmap-mdpi_ic_launcher.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/mipmap-mdpi/ic_launcher.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/drawable_ic_heart_border.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/drawable/ic_heart_border.xml"
     },
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/layout_activity_image_details.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/layout/activity_image_details.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/drawable_bg_circle_translucent.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/drawable/bg_circle_translucent.xml"
     },
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/drawable_ic_heart_border.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/drawable/ic_heart_border.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/drawable_ic_heart_filled.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/drawable/ic_heart_filled.xml"
     },
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/mipmap-mdpi/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/layout_item_favorite_circle.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/layout/item_favorite_circle.xml"
     },
     {
-        "merged": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-debug-42:/drawable_ic_heart_filled.xml.flat",
-        "source": "/Users/rodrigorodrigues/.gradle/daemon/8.7/com.example.picsumgallery.app-main-44:/drawable/ic_heart_filled.xml"
+        "merged": "com.example.picsumgallery.app-debug-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.picsumgallery.app-debug-42:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.picsumgallery.app-debug-42:/menu_menu_main.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.picsumgallery.app-debug-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.picsumgallery.app-debug-42:/layout_activity_favorites.xml.flat",
+        "source": "com.example.picsumgallery.app-main-44:/layout/activity_favorites.xml"
     }
 ]

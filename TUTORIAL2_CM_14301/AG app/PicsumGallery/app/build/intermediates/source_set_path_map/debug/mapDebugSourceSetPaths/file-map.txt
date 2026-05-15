@@ -36,10 +36,10 @@ com.example.picsumgallery.app-lifecycle-livedata-core-2.8.7-34 /Users/rodrigorod
 com.example.picsumgallery.app-appcompat-1.7.0-35 /Users/rodrigorodrigues/.gradle/caches/transforms-4/f845af174cf8bad582898ad22a8afecd/transformed/appcompat-1.7.0/res
 com.example.picsumgallery.app-jetified-startup-runtime-1.1.1-36 /Users/rodrigorodrigues/.gradle/caches/transforms-4/f90d368114482f3feac0d8ff9aee5e67/transformed/jetified-startup-runtime-1.1.1/res
 com.example.picsumgallery.app-jetified-core-ktx-1.13.1-37 /Users/rodrigorodrigues/.gradle/caches/transforms-4/fdda34f2959678d3672cba41f48b1aa1/transformed/jetified-core-ktx-1.13.1/res
-com.example.picsumgallery.app-pngs-38 /Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/generated/res/pngs/debug
-com.example.picsumgallery.app-resValues-39 /Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/generated/res/resValues/debug
-com.example.picsumgallery.app-packageDebugResources-40 /Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.picsumgallery.app-packageDebugResources-41 /Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.picsumgallery.app-debug-42 /Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.picsumgallery.app-debug-43 /Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/src/debug/res
-com.example.picsumgallery.app-main-44 /Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/src/main/res
+com.example.picsumgallery.app-pngs-38 /Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/generated/res/pngs/debug
+com.example.picsumgallery.app-resValues-39 /Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/generated/res/resValues/debug
+com.example.picsumgallery.app-packageDebugResources-40 /Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.picsumgallery.app-packageDebugResources-41 /Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.picsumgallery.app-debug-42 /Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.picsumgallery.app-debug-43 /Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/src/debug/res
+com.example.picsumgallery.app-main-44 /Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/src/main/res

@@ -1,16 +1,16 @@
-#Sun May 10 01:56:57 WEST 2026
-base.0=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.10=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
-base.11=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
-base.2=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.3=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
-base.4=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
-base.5=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
-base.6=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
-base.7=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
-base.8=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
-base.9=/Users/rodrigorodrigues/Desktop/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+#Mon May 11 00:44:01 WEST 2026
+base.0=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.10=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+base.11=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.2=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+base.4=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+base.5=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.6=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.7=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
+base.8=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.9=/Users/rodrigorodrigues/Documents/GitHub/Tutoriais_CM_14301/TUTORIAL2_CM_14301/AG app/PicsumGallery/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=9/classes.dex
