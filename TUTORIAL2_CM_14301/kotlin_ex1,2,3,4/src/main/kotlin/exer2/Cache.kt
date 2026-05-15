@@ -39,7 +39,7 @@ class Cache<K: Any, V: Any>{
         return newValue
     }
 
-    fun transform(key: K, action: (V) -> V): Boolean{
+    fun transform(key: K, action: (V) -> V ): Boolean{
         val existing = store[key]
         if(existing == null){
             return false

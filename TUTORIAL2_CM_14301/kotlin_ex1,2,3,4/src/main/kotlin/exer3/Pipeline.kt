@@ -5,7 +5,6 @@ class Pipeline {
 
     fun addStage(name: String, transform: (List<String>) -> List<String>) {
         stages.add(Pair(name, transform))
-
     }
 
     fun execute(input: List<String>): List<String> {

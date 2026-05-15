@@ -11,13 +11,13 @@ fun main(){
     )
 
     val pipeline = buildPipeline {
-        this.addStage("Trim"){ list ->
+        addStage("Trim"){ list ->
             list.map{it.trim()}
         }
         addStage("Filter errors"){ list ->
             list.filter{it.contains("ERROR")}
         }
-        this.addStage("Uppercase"){ list ->
+        addStage("Uppercase"){ list ->
             list.map{it.uppercase() }
         }
         addStage("Add index"){ list ->
