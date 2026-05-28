@@ -39,13 +39,14 @@ class Cache<K: Any, V: Any>{
         return newValue
     }
 
-    fun transform(key: K, action: (V) -> V ): Boolean{
+    fun transform(key: K, action: (V) -> V ): Pair<K,V>?{
         val existing = store[key]
         if(existing == null){
-            return false
+            return null
         }
-        store[key] = action(existing)
-        return true
+        val newValue = action(existing)
+        store[key] = newValue
+        return Pair(key,newValue)
     }
 
     fun snapshot(): Map<K, V>{

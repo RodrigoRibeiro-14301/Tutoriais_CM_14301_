@@ -14,8 +14,8 @@ fun main(){
     println("getOrPut \"kotlin\": ${cache.getOrPut("kotlin") { 0 }}")
     println("getOrPut \"java\": ${cache.getOrPut("java") { 0 }}")
     println("Size after getOrPut: ${cache.size()}")
-
-    println("Transform \"kotlin\" (+1): ${cache.transform("kotlin") { it + 1}}")
+    val action : (Int) -> Int = {it + 1}
+    println("Transform \"kotlin\" (+1): ${cache.transform("kotlin", action)}")
     println("Transform \"cobol\" (+1): ${cache.transform("cobol") { it + 1 }}")
     println("Snapshot: ${cache.snapshot()}\n")
 
