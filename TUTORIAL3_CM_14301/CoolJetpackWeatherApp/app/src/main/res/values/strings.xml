@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CoolJetpackWeatherApp</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="coordinates_title">Coordinates</string>
+    <string name="update_button_text">Update Weather</string>
+    <string name="sea_level_pressure">Sea Level Pressure</string>
+    <string name="wind_direction">Wind Direction</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="temperature_label">Temperature</string>
+    <string name="time_label">Time</string>
+    <string name="weather_icon_desc">Weather Icon</string>
+    <string name="update_button">Update Weather</string>
+
+</resources>
