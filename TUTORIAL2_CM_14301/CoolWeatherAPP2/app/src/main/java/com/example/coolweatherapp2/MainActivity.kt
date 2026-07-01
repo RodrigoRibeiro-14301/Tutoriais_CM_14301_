@@ -179,8 +179,12 @@ class MainActivity : AppCompatActivity() {
 
             val res = resources
             val resID = res.getIdentifier(wImage, "drawable", packageName)
-            val drawable = this.getDrawable(resID)
-            weatherIcon.setImageDrawable(drawable)
+            if (resID != 0) {
+                val drawable = this.getDrawable(resID)
+                weatherIcon.setImageDrawable(drawable)
+            } else {
+                weatherIcon.setImageResource(R.drawable.ic_launcher_foreground)
+            }
 
 
             val bgImage = if (day) R.drawable.sunny_bg else R.drawable.night_bg
